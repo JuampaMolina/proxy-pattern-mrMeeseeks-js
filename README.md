@@ -1,1 +1,1 @@
-# proxy-pattern-mrMeeseks-js
+# proxy-pattern-mrMeeseeks-js
